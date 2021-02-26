@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Trisna Nugraha
-#### Network Administrator & Web Programmer
+# Hi, my name is Trisna Nugraha
+
 This is about my documentation.
 
 ### Skills
